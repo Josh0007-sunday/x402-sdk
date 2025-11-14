@@ -1,6 +1,10 @@
 # x402 Protocol: Bitcoin Lightning Payments for HTTP APIs
 
-![x402 Payment Flow](https://i.ibb.co/MrHhcFM/x402-structure.png)
+<div align="center">
+  <img src="https://i.ibb.co/MrHhcFM/x402-structure.png" alt="x402 Payment Flow" width="600">
+  <br>
+  <em>x402 Payment Flow Diagram</em>
+</div>
 
 ## Overview
 
@@ -44,3 +48,7 @@ The x402 protocol facilitates micropayments for digital content and API access t
 - Subscription services with granular pricing
 
 x402 represents a significant step toward making Bitcoin payments a native feature of the web, providing a simple infrastructure that bridges the gap between traditional web applications and decentralized finance.
+
+---
+
+*Diagram showing the complete x402 payment flow from initial request to content delivery*
