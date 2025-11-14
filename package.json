@@ -1,0 +1,17 @@
+{
+  "name": "x402-sdk",
+  "version": "1.0.0",
+  "description": "Lightning payment SDK using Rust + Neon",
+  "main": "index.js",
+  "scripts": {
+    "build": "cargo build --release && cp target/release/libx402.so index.node",
+    "test": "node src/examples/test.js",
+    "test:polar": "node src/examples/polar_test.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1"
+  },
+  "devDependencies": {
+    "neon-cli": "^0.10.0"
+  }
+}

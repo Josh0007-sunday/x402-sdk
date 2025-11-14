@@ -1,0 +1,16 @@
+# Rust
+/target
+Cargo.lock
+
+# Node.js
+node_modules/
+*.node
+index.node
+
+# Build artifacts
+build/
+native/
+
+# Environment
+.env
+.env.local
