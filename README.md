@@ -2,6 +2,8 @@
 
 ## Overview
 
+https://ibb.co/KdgG2TF
+
 x402 is an open payment standard that enables services to charge for access to their APIs and content directly over HTTP. Built around the HTTP 402 "Payment Required" status code, x402 creates a seamless payment layer for both Web3 dApps and traditional web applications using Bitcoin's Lightning Network.
 
 ## How x402 Works with Lightning Network
